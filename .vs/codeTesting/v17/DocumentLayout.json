@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digvijays\\source\\repos\\codeTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B92C9FE-BD66-4B55-A08A-32E7CA8AB8F3}|codeTesting\\codeTesting.vcxproj|C:\\Users\\digvijays\\source\\repos\\codeTesting\\codeTesting\\codeTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B92C9FE-BD66-4B55-A08A-32E7CA8AB8F3}|codeTesting\\codeTesting.vcxproj|solutionrelative:codeTesting\\codeTesting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "codeTesting.cpp",
+              "DocumentMoniker": "C:\\Users\\digvijays\\source\\repos\\codeTesting\\codeTesting\\codeTesting.cpp",
+              "RelativeDocumentMoniker": "codeTesting\\codeTesting.cpp",
+              "ToolTip": "C:\\Users\\digvijays\\source\\repos\\codeTesting\\codeTesting\\codeTesting.cpp",
+              "RelativeToolTip": "codeTesting\\codeTesting.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAtwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T05:38:29.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
